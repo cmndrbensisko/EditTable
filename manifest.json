@@ -1,0 +1,22 @@
+{
+  "name": "EditTable",
+  "platform": "HTML",
+  "version": "2.5",
+  "wabVersion": "2.5",
+  "author": "Adam Drackley",
+  "description": "Button for toggling editing of Tables in the AttributeTAble",
+  "copyright": "2018",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasStyle": false,
+    "inPanel": false,
+    "hasUIFile": false,
+    "hasConfig": true,
+    "hasSettingPage": true,
+    "hasSettingUIFile": true,
+    "hasSettingLocale": true,
+    "hasSettingStyle": true,
+    "supportMultiInstance": true,
+    "keepConfigAfterMapSwitched": false
+  }
+}

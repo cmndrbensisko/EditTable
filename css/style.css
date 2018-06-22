@@ -1,0 +1,12 @@
+[data-widget-name='EditTable'].jimu-state-selected{
+		background-color:red !important;
+}
+#editableTable [data-dojo-attach-point = '_gridContentPaneNode']{
+	top:30px !important
+}
+.esri-feature-table{
+	font-family: 'Avenir Light', Verdana, Geneva, sans-serif !important
+}
+#editableTable .dgrid-cell {
+    background-color: rgb(255,0,0,0.2) !important;
+}
