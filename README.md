@@ -9,3 +9,5 @@ Help keep the author caffeinated!  If you find the LocalLayer Widget useful, fee
 The EditTable Widget for ArcGIS Web AppBuilder allows for editing Table layers in a FeatureService.  Add the Table layers as Feature Layers using the LocalLayer widget, and have the AttributeTable widget open and visible in your application.  The EditTable widget should allow you to toggle an editing mode, and the 'hamburger' control on right right side of the toolbar should let you add and delete records.
 
 Note that at least one spatial layer is currently required to be added to your map via the LocalLayer widget for the map to load.
+
+Currently no configuration is available or necessary; just hit 'OK' in the Settings menu to continue.
