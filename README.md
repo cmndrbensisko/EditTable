@@ -1,7 +1,7 @@
 EditTable Widget 2.5
 ==
 
-Help keep the author caffeinated!  If you find the LocalLayer Widget useful, feel free to click the [tip jar](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LLXK28GA2T3CG) to help support ongoing development.  Thanks to everyone who's donated!
+Help keep the author caffeinated!  If you find this Widget useful, feel free to click the [tip jar](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LLXK28GA2T3CG) to help support ongoing development.  Thanks to everyone who's donated!
 
 [![paypal link](https://github.com/cmndrbensisko/LocalLayer/blob/master/images/jar.gif "thanks for your support!")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LLXK28GA2T3CG)
 ### About
